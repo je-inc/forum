@@ -1,0 +1,11 @@
+# Python binary
+*.pyc
+
+# IDE files
+.idea
+
+# Virtual environment
+ENV
+
+#Databases
+.sqlite3
